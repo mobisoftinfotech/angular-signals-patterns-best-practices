@@ -1,0 +1,9 @@
+.child-section,
+h3 {
+  display: flex;
+  justify-content: center;
+
+  .child-divider {
+    padding: 0 50px;
+  }
+}

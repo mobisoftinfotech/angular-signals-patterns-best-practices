@@ -1,0 +1,5 @@
+
+<div class="basics">
+  <p>Addition: {{getAddition()}}</p>
+  <button [disabled]="getAddition() < 0" (click)="updateAddition()">Update Addition</button>
+</div>
