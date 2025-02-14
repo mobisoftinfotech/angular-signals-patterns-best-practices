@@ -1,8 +1,6 @@
 # Angular Signals
 
-This repository contains the code for the tutorial: Angular Signals Guide: Architectural Patterns and Best Practices for Using Signals in Angular Applications by [Mobisoft, Web Application Development Company, Houston](https://mobisoftinfotech.com/services/web-application-development-company)
-
-For more details, check out my blog: [Angular Signals Guide: Architectural Patterns and Best Practices for Using Signals in Angular Applications](https://mobisoftinfotech.com/resources/blog/angular-signals-architecture-best-practices)
+This repository contains the code for the tutorial: [Angular Signals Guide: Architectural Patterns and Best Practices for Using Signals in Angular Applications](https://mobisoftinfotech.com/resources/blog/angular-signals-architecture-best-practices) by [Mobisoft, Web Application Development Company, Houston](https://mobisoftinfotech.com/services/web-application-development-company)
 
 ## How to Run the Project
 To run the project locally:
